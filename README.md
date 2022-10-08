@@ -51,5 +51,5 @@ We generate an APK to install the app in the mobile phone.
 You can also find the generated apk in the source code folder which can be installed in a smartphone.
 
 done by :
-[Vriddhi Darak](https://github.com/vriddhid)
+[Vriddhi Darak](https://github.com/vriddhid) and 
 [Rohitha Yennapu](https://github.com/Rohitha-Y)
